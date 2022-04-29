@@ -92,5 +92,5 @@ const jsonDATA = JSON.stringify(data);
   res.status(200).json(jsonDATA);
 }
  
-   // fetch('https://teste-eniac-2.vercel.app/api/respostas').then(response => response.json())
-    // .then(data => console.log(data));
+  //  fetch('https://teste-eniac-2.vercel.app/api/respostas').then(response => response.json())
+  //   .then(data => console.log(data));
